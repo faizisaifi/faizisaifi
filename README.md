@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Faizi Ahmad Saifi 👋
 
-<!--
-**faizisaifi/faizisaifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst focused on transforming data into meaningful insights using SQL, Power BI, Advanced Excel, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL / PostgreSQL
+- Microsoft Power BI
+- Advanced Microsoft Excel
+- Tableau
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- MIS Reporting
+- Pivot Tables
+- Dashboard Development
+
+## 📊 Projects
+
+### Sales Performance Dashboard – Microsoft Excel
+Interactive dashboard analyzing sales performance across sub-categories, states, customers, and time periods.
+
+### Global Airbnb Performance Dashboard – Power BI
+Interactive Power BI dashboard analyzing Airbnb listings, prices, market share, city-level performance, and customer ratings.
+
+## 📚 Currently Working On
+
+- SQL Data Analysis Projects
+- Business Analytics
+- Data Analyst Interview Preparation
+
+## 🎯 Career Goal
+
+Looking for opportunities as a Data Analyst where I can apply my analytical skills and contribute to data-driven business decisions.
+
+## 📫 Connect With Me
+
+- LinkedIn: [Faizi Ahmad Saifi](https://www.linkedin.com/in/faizi-saifi-b61682281)
